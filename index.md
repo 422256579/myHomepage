@@ -36,15 +36,15 @@ I am currently a Ph.D. student in Computer Science at CISPA - Helmholtz Center f
   <br>
   IEEE Symposium on Security and Privacy. **S&P 2021**.
   <br>
-  [[PDF](https://eprint.iacr.org/2020/823.pdf)] 
+  [[eprint](https://eprint.iacr.org/2020/823.pdf)] 
 
 - **Factorization of Frieze patterns**
   <br>
   Moritz Weber and **Mang Zhao**
   <br>
-  Revista de la Union Matematica Argentina, Vol. 60 (2), 407-415, 2019
+  (Journal) Revista de la Union Matematica Argentina, Vol. 60 (2), 407-415, 2019
   <br>
-  [[PDF](https://inmabb.criba.edu.ar/revuma/pdf/v60n2/v60n2a08.pdf)]
+  [[Journal](https://inmabb.criba.edu.ar/revuma/pdf/v60n2/v60n2a08.pdf)]
 
 ## Services
 
