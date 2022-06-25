@@ -38,7 +38,7 @@ I am currently a Ph.D. student in Computer Science at CISPA - Helmholtz Center f
   <br>
   [[eprint](https://eprint.iacr.org/2020/823.pdf)] 
 
-- **Factorization of Frieze patterns**
+- **Factorization of Frieze Patterns**
   <br>
   Moritz Weber and **Mang Zhao**
   <br>
