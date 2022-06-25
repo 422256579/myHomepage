@@ -48,7 +48,7 @@ I am currently a Ph.D. student in Computer Science at CISPA - Helmholtz Center f
 
 ## Services
 
-- Conference Reviewers: CCS 2022
+- CCS 2022 External Reviewer
 
 ## Teaching
 
