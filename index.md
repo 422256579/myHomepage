@@ -22,7 +22,7 @@ I am currently a Ph.D. student in Computer Science at CISPA - Helmholtz Center f
   <br>
   [[PDF](https://github.com/mang-zhao/paper-unpublished/blob/main/esm-fullversion.pdf)] 
   
- - **FIDO2, CTAP 2.1, and WebAuthn 2: Provable Security and Post-Quantum Instantiation**
+- **FIDO2, CTAP 2.1, and WebAuthn 2: Provable Security and Post-Quantum Instantiation**
   <br>
   Nina Bindel, Cas Cremers, **Mang Zhao**
   <br>
