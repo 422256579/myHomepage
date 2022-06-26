@@ -51,6 +51,10 @@ I am currently a Ph.D. student in Computer Science at CISPA - Helmholtz Center f
 
 - CCS 2022 External Reviewer
 
+## Experiences
+
+- [Microsoft Identity Project: Developing Post-Quantum Secure Identity Services](https://www.microsoft.com/en-us/msrc/grant-microsoft-identity). Researchers: Dr. Jacqueline Bindel, Prof. Dr. Cas Cremers, **Mang Zhao**
+
 ## Teaching
 
 - Teaching Assistant, [Secure Messaging](https://cms.cispa.saarland/secmes/) at Saarland University, WS 2019
