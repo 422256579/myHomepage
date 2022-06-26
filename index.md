@@ -2,6 +2,8 @@
 layout: homepage
 ---
 
+“以一生一世来铸就的事业，非旁人能理解，寂寞必然，浪漫也必然，因为爱足以遮蔽一切艰辛。如果仍觉得艰辛，那就是爱得不够。——小思《一瓦之缘》”
+
 ## Mang Zhao
 
 I am currently a Ph.D. student in Computer Science at CISPA - Helmholtz Center for Information Security, supervised by [Prof. Dr. Cas Cremers](https://people.cispa.io/cas.cremers/). Previously, I obtained my Bachelor's degree in Mathemtics and Computer Science from [Saarland University](https://www.uni-saarland.de/start.html), supervised by [Prof. Dr. Moritz Weber](https://www.uni-saarland.de/lehrstuhl/weber-moritz/team/moritz-weber.html).
