@@ -12,7 +12,7 @@ I am currently a Ph.D. student in Computer Science at CISPA - Helmholtz Center f
 - **Cryptographic Analysis of Protocols**
 - **Key Exchange and Secure Messaging** 
 
-## Publications
+## Publications (Authors are listed in alphabetical order)
 
 - **Stronger Secure Messaging with Immediate Decryption and Constant-Size Overhead**
   <br>
