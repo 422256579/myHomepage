@@ -29,7 +29,7 @@ I am currently a Ph.D. student in Computer Science at CISPA - Helmholtz Center f
   <br>
   Nina Bindel, Cas Cremers, **Mang Zhao**
   <br>
-  Under Submission.
+  IEEE Symposium on Security and Privacy. **S&P 2023**.
   <br>
   [[PDF](https://github.com/mang-zhao/paper-unpublished/blob/main/fido2-fullversion.pdf)] 
 
