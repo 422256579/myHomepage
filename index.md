@@ -47,7 +47,8 @@ I am currently a Ph.D. student in Computer Science at CISPA - Helmholtz Center f
   <br>
   (Journal) Revista de la Union Matematica Argentina, Vol. 60 (2), 407-415, 2019
   <br>
-  [[Journal](https://inmabb.criba.edu.ar/revuma/pdf/v60n2/v60n2a08.pdf)]
+  [[Journal](https://inmabb.criba.edu.ar/revuma/pdf/v60n2/v60n2a08.pdf)] [[arXiv]([https://inmabb.criba.edu.ar/revuma/pdf/v60n2/v60n2a08.pdf](https://arxiv.org/abs/1809.00274))]
+  
 
 ## Reviewing
 
