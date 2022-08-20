@@ -31,7 +31,7 @@ I am currently a Ph.D. student in Computer Science at CISPA - Helmholtz Center f
   <br>
   IEEE Symposium on Security and Privacy. **S&P 2023**.
   <br>
-  [[PDF](https://github.com/mang-zhao/paper-unpublished/blob/main/fido2-fullversion.pdf)] 
+  [[eprint](https://eprint.iacr.org/2022/1029)] 
 
 - **The Provable Security of Ed25519: Theory and Practice**
   <br>
@@ -39,7 +39,7 @@ I am currently a Ph.D. student in Computer Science at CISPA - Helmholtz Center f
   <br>
   IEEE Symposium on Security and Privacy. **S&P 2021**.
   <br>
-  [[eprint](https://eprint.iacr.org/2020/823.pdf)] 
+  [[eprint](https://eprint.iacr.org/2020/823)] 
 
 - **Factorization of Frieze Patterns**
   <br>
