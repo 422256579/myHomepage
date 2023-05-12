@@ -29,7 +29,7 @@ I am currently a Ph.D. student in Computer Science at CISPA - Helmholtz Center f
   <br>
   Cas Cremers, Alexander Dax, Charlie Jacomme, and **Mang Zhao**
   <br>
-  USENIX Security 2023.
+  USENIX Security Symposium. **USENIX 2023**.
   
 - **FIDO2, CTAP 2.1, and WebAuthn 2: Provable Security and Post-Quantum Instantiation**
   <br>
