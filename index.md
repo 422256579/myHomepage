@@ -6,7 +6,7 @@ layout: homepage
 
 ## Mang Zhao
 
-I am currently a Ph.D. student in Computer Science at CISPA - Helmholtz Center for Information Security, supervised by [Prof. Dr. Cas Cremers](https://people.cispa.io/cas.cremers/). Previously, I obtained my Bachelor's degree in Mathemtics and Computer Science from [Saarland University](https://www.uni-saarland.de/start.html), supervised by [Prof. Dr. Moritz Weber](https://www.uni-saarland.de/lehrstuhl/weber-moritz.html).
+I am currently a Ph.D. student in Computer Science at CISPA Helmholtz Center for Information Security and Saarland University, supervised by [Prof. Dr. Cas Cremers](https://people.cispa.io/cas.cremers/). Previously, I obtained my Bachelor's degree in Mathematics and Computer Science from [Saarland University](https://www.uni-saarland.de/start.html), supervised by [Prof. Dr. Moritz Weber](https://www.uni-saarland.de/lehrstuhl/weber-moritz.html).
 
 ## News
 Hi, I am doing my final-year Ph.D. study and looking for jobs afterwards.
@@ -15,38 +15,44 @@ If you have any suitable positions for me, please contact me [mang.zhao@cispa.de
 ## Research Interests
 
 - **Cryptographic Analysis of Protocols**
-- **Key Exchange and Secure Messaging** 
+- **Key Exchange and Secure Messaging**
 
 ## Publications 
-(authors are listed in the alphabetical order)
+(authors are listed in alphabetical order, which is the convention in our field.)
 
-- **Stronger Secure Messaging with Immediate Decryption and Constant-Size Overhead**
+- *Multi-Stage Group Key Distribution and PAKEs: Securing Zoom Groups against Malicious Servers without New Security Elements*
+  <br>
+  Cas Cremers, Eyal Ronen, and **Mang Zhao**
+  <br>
+  IEEE Symposium on Security and Privacy (**IEEE S&P**), 2024.
+  
+- *Stronger Secure Messaging with Immediate Decryption and Constant-Size Overhead*
   <br>
   Cas Cremers and **Mang Zhao**
   <br>
-  Under Submission.
+  IEEE Symposium on Security and Privacy (**IEEE S&P**), 2024.
   <br>
   [[eprint](https://eprint.iacr.org/2022/1481)] 
 
-- **Automated Analysis of Protocols that use Authenticated Encryption: How Subtle AEAD Differences can impact Protocol Security**
+- *Automated Analysis of Protocols that use Authenticated Encryption: How Subtle AEAD Differences can impact Protocol Security*
   <br>
   Cas Cremers, Alexander Dax, Charlie Jacomme, and **Mang Zhao**
   <br>
-  USENIX Security Symposium. **USENIX 2023**.
+  USENIX Security Symposium (**USENIX**), 2023.
   
-- **FIDO2, CTAP 2.1, and WebAuthn 2: Provable Security and Post-Quantum Instantiation**
+- *FIDO2, CTAP 2.1, and WebAuthn 2: Provable Security and Post-Quantum Instantiation*
   <br>
   Nina Bindel, Cas Cremers, **Mang Zhao**
   <br>
-  IEEE Symposium on Security and Privacy. **S&P 2023**.
+  IEEE Symposium on Security and Privacy (**IEEE S&P**), 2023.
   <br>
   [[eprint](https://eprint.iacr.org/2022/1029)] 
 
-- **The Provable Security of Ed25519: Theory and Practice**
+- *The Provable Security of Ed25519: Theory and Practice*
   <br>
   Jacqueline Brendel, Cas Cremers, Dennis Jackson, **Mang Zhao**
   <br>
-  IEEE Symposium on Security and Privacy. **S&P 2021**.
+  IEEE Symposium on Security and Privacy (**IEEE S&P**), 2021.
   <br>
   [[eprint](https://eprint.iacr.org/2020/823)] 
 
@@ -59,15 +65,15 @@ If you have any suitable positions for me, please contact me [mang.zhao@cispa.de
   [[Journal](https://inmabb.criba.edu.ar/revuma/pdf/v60n2/v60n2a08.pdf)] [[arXiv](https://arxiv.org/abs/1809.00274)]
   
 
-## Reviewing
+## Academic Activities
 
-- CCS 2022
+- Reviewer: CCS 2022
+- Sub-Reviewer: CSF 2021, IEEE S&P 2021, IEEE S&P 2022
+- Teaching
+  - Teaching Assistant, [Secure Messaging](https://cms.cispa.saarland/secmes/) at Saarland University, WS 2019
+  - Teaching Assistant, [Bachelor- and Master Seminar](https://cms.cispa.saarland/bms22/) at Saarland University, SS 2022 - SS 2023
 
 ## Experiences
 
 - [Microsoft Identity Project: Developing Post-Quantum Secure Identity Services](https://www.microsoft.com/en-us/msrc/grant-microsoft-identity). Researchers: Dr. Nina Bindel, Dr. Jacqueline Brendel, Prof. Dr. Cas Cremers, **Mang Zhao**
 
-## Teaching
-
-- Teaching Assistant, [Secure Messaging](https://cms.cispa.saarland/secmes/) at Saarland University, WS 2019
-- Teaching Assistant, [Bachelor- and Master Seminar](https://cms.cispa.saarland/bms22/) at Saarland University, SS 2022 - SS 2023
