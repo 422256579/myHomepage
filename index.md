@@ -36,9 +36,9 @@ If you have any suitable positions for me, please contact me [mang.zhao@cispa.de
 
 - *Automated Analysis of Protocols that use Authenticated Encryption: How Subtle AEAD Differences can impact Protocol Security*
   <br>
-  Cas Cremers, Alexander Dax, Charlie Jacomme, and **Mang Zhao**
+  Cas Cremers, Alexander Dax, Charlie Jacomme, and **Mang Zhao** (***Distinguished Paper Award***)
   <br>
-  USENIX Security Symposium (**USENIX**), 2023.
+  USENIX Security Symposium (**USENIX**), 2023. 
   
 - *FIDO2, CTAP 2.1, and WebAuthn 2: Provable Security and Post-Quantum Instantiation*
   <br>
