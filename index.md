@@ -25,6 +25,8 @@ If you have any suitable positions for me, please contact me [mang.zhao@cispa.de
   Cas Cremers, Eyal Ronen, and **Mang Zhao**
   <br>
   IEEE Symposium on Security and Privacy (**IEEE S&P**), 2024.
+  <br>
+  [[eprint](https://eprint.iacr.org/2023/1243)] 
   
 - *Stronger Secure Messaging with Immediate Decryption and Constant-Size Overhead*
   <br>
@@ -38,7 +40,9 @@ If you have any suitable positions for me, please contact me [mang.zhao@cispa.de
   <br>
   Cas Cremers, Alexander Dax, Charlie Jacomme, and **Mang Zhao** (***Distinguished Paper Award***)
   <br>
-  USENIX Security Symposium (**USENIX**), 2023. 
+  USENIX Security Symposium (**USENIX**), 2023.
+  <br>
+  [[eprint](https://eprint.iacr.org/2023/1246)] 
   
 - *FIDO2, CTAP 2.1, and WebAuthn 2: Provable Security and Post-Quantum Instantiation*
   <br>
