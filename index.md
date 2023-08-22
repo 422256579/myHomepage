@@ -46,7 +46,7 @@ If you have any suitable positions for me, please contact me [mang.zhao@cispa.de
   
 - *FIDO2, CTAP 2.1, and WebAuthn 2: Provable Security and Post-Quantum Instantiation*
   <br>
-  Nina Bindel, Cas Cremers, **Mang Zhao**
+  Nina Bindel, Cas Cremers, and **Mang Zhao**
   <br>
   IEEE Symposium on Security and Privacy (**IEEE S&P**), 2023.
   <br>
@@ -54,7 +54,7 @@ If you have any suitable positions for me, please contact me [mang.zhao@cispa.de
 
 - *The Provable Security of Ed25519: Theory and Practice*
   <br>
-  Jacqueline Brendel, Cas Cremers, Dennis Jackson, **Mang Zhao**
+  Jacqueline Brendel, Cas Cremers, Dennis Jackson, and **Mang Zhao**
   <br>
   IEEE Symposium on Security and Privacy (**IEEE S&P**), 2021.
   <br>
