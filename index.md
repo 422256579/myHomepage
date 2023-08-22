@@ -28,7 +28,7 @@ If you have any suitable positions for me, please contact me [mang.zhao@cispa.de
   <br>
   [[eprint](https://eprint.iacr.org/2023/1243)] 
   
-- *Stronger Secure Messaging with Immediate Decryption and Constant-Size Overhead*
+- *Secure Messaging with Strong Compromise Resilience, Temporal Privacy, and Immediate Decryption*
   <br>
   Cas Cremers and **Mang Zhao**
   <br>
