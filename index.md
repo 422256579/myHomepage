@@ -6,10 +6,11 @@ layout: homepage
 
 ## Mang Zhao
 
-I am currently a Ph.D. student in Computer Science at [CISPA Helmholtz Center for Information Security](https://cispa.de/en) and [Saarland University](https://www.uni-saarland.de/start.html), supervised by [Prof. Dr. Cas Cremers](https://people.cispa.io/cas.cremers/). Previously, I obtained my Bachelor's degree in Mathematics and Computer Science from [Saarland University](https://www.uni-saarland.de/start.html), supervised by [Prof. Dr. Moritz Weber](https://www.uni-saarland.de/lehrstuhl/weber-moritz.html).
+I just completed my Ph.D. study in Computer Science at [CISPA Helmholtz Center for Information Security](https://cispa.de/en) and [Saarland University](https://www.uni-saarland.de/start.html), supervised by [Prof. Dr. Cas Cremers](https://people.cispa.io/cas.cremers/). Previously, I obtained my Bachelor's degree in Mathematics and Computer Science from [Saarland University](https://www.uni-saarland.de/start.html), supervised by [Prof. Dr. Moritz Weber](https://www.uni-saarland.de/lehrstuhl/weber-moritz.html).
+
 
 ## News
-Hi, I am doing my final-year Ph.D. study and looking for jobs afterwards.
+Hi, I just completed my Ph.D. study and am looking for jobs afterwards.
 If you have any suitable positions for me, please contact me [mang.zhao@cispa.de](mang.zhao@cispa.de). 
 
 ## Research Interests
