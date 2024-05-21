@@ -11,7 +11,7 @@ I just completed my Ph.D. study in Computer Science at [CISPA Helmholtz Center f
 
 ## News
 Hi, I just completed my Ph.D. study and am looking for jobs afterwards.
-If you have any suitable positions for me, please contact me [mang.zhao@cispa.de](mang.zhao@cispa.de). 
+If you have any suitable positions for me, please contact me [mang.zhao@cispa.de](mang.zhao@hotmail.com). 
 
 ## Research Interests
 
