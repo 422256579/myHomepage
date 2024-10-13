@@ -72,11 +72,11 @@ If you have any suitable positions for me, please contact me [mang.zhao@hotmail.
 
 ## Academic Activities
 
-- PC: CCS 2024
-- Reviewer: CCS 2022, IEEE/ACM ToN 2024
-- Sub-Reviewer: CSF 2021, IEEE S&P 2021, IEEE S&P 2022
+- PC: ACM CCS 2024
+- Reviewer: IEEE/ACM ToN 2024
+- External-/ Sub-Reviewer: ACM CCS 2022, CSF 2021, IEEE S&P 2021, IEEE S&P 2022
 - Teaching
-  - Teaching Assistant, [Secure Messaging](https://cms.cispa.saarland/secmes/) at Saarland University, WS 2019
+  - Teaching Assistant, [Secure Messaging](https://cms.cispa.saarland/secmes/) at Saarland University, WS 2019/2020
   - Teaching Assistant, [Bachelor- and Master Seminar](https://cms.cispa.saarland/bms22/) at Saarland University, SS 2022 - SS 2024
 
 ## Experiences
